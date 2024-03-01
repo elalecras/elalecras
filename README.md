@@ -1,10 +1,11 @@
 # Buenas, soy Alejandro!👋
 Soy Administrador de Sistemas y me gusta programar en mis ratos libres
 
-# Habilidades
+# Mis habilidades🚀
 - Mantenimiento de Sistemas
 - Gestión de dominios
-- Microsoft 365
+- Administración de Microsoft 365
 - Redes
 - Arduino
+- Sensores
 - Diseño de PCBs
